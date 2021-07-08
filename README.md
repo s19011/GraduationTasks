@@ -10,3 +10,6 @@
 ### References
 * [スケジュール](https://docs.google.com/document/d/1spqRfC_E_8_quBKnA38-FKSb3p6A-kr8lZiCI8JPNj4/edit?ts=60d032a5)  
 * [企画書](https://docs.google.com/document/d/18jh7mQTn9u0Yd4ytZSFXf6F2bDe-Nodem2-5_SxHO0A/edit?ts=60e29d01)
+* 仕様書
+* [ソース](https://qiita.com/RyBB/items/32b2a7b879f21b3edefc)
+* プレゼンテーション
