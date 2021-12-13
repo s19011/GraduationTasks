@@ -1,15 +1,19 @@
 {
   "manifest_version": 2,
-  "name": "TestMemo",
+  "name": "clipy",
   "version": "1.0.0",
-  "description": "ここにアプリケーションの概要を記入する。",
+  "background": {
+    "scripts": ["shortcut/event.js"],
+    "parsistent": false
+  },
+  "description": "定型文を保存するアプリケーション",
   "icons": {
-    "128": "icon_128.png"
+    "128": "memo2.png"
   },
   "permissions": ["tabs","storage"],
   "browser_action": {
-    "default_title": "TestMemo",
-    "default_popup": "input/input.html"
+    "default_title": "clipy",
+    "default_popup": "listview/listview.html"
   },
   "content_scripts": [
     {
