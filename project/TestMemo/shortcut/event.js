@@ -38,3 +38,4 @@
       document.execCommand('copy');
     }
   }
+  
