@@ -10,7 +10,7 @@
   "icons": {
     "128": "memo2.png"
   },
-  "permissions": ["tabs","storage"],
+  "permissions": ["tabs","storage","activeTab","contextMenus"],
   "browser_action": {
     "default_title": "clipy",
     "default_popup": "listview/listview.html"
